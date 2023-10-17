@@ -7,6 +7,10 @@
   "files": [
     "/dist"
   ],
+  "repository": "tdukart/use-state-set",
+  "bugs": {
+    "url": "https://github.com/tdukart/use-state-set/issues",
+  },
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
