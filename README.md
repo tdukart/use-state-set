@@ -1,6 +1,6 @@
 # use-state-set
 
-[npm](https://npm.im/@tdukart/use-state-set)
+[npm](https://npm.im/@tdukart/use-state-set) | [GitHub](https://github.com/tdukart/use-state-set)
 
 A convenience React hook to use JS Sets in a React state.
 
