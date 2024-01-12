@@ -1,8 +1,14 @@
 # use-state-set
 
+[npm](https://npm.im/@tdukart/use-state-set) | [GitHub](https://github.com/tdukart/use-state-set)
+
 A convenience React hook to use JS Sets in a React state.
 
 ## Usage
+
+```sh
+npm install @tdukart/use-state-set
+```
 
 ```jsx
 import useStateSet from '@tdukart/use-state-set';
