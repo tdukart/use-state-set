@@ -1,10 +1,14 @@
 # use-state-set
 
-![NPM Version](https://img.shields.io/npm/v/%40tdukart%2Fuse-state-set?link=https%3A%2F%2Fnpm.im%2F%40tdukart%2Fuse-state-set)
+[npm](https://npm.im/@tdukart/use-state-set)
 
 A convenience React hook to use JS Sets in a React state.
 
 ## Usage
+
+```sh
+npm install @tdukart/use-state-set
+```
 
 ```jsx
 import useStateSet from '@tdukart/use-state-set';
